@@ -1,6 +1,6 @@
 package fh.campus02;
 
-public class bookDiscount {
+public class BookDiscount {
     public static void main(String[] args) {
         int nonFiction = 3;
         int fiction = 0;

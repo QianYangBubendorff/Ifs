@@ -1,6 +1,6 @@
 package fh.campus02;
 
-public class drinkDiscount {
+public class DrinkDiscount {
     public static void main(String[] args) {
         int drink = 2;
         int alcoholic = 0;
