@@ -24,11 +24,11 @@ public class ArrayExercise {
         boolean isContained = true;
         for (int i=0; i < array.length; i++){
             if (number == array[i]){
-                isContained = true;
-            } else {
-                isContained = false;
+                return true;
             }
+            }
+        return false;
         }
-        return isContained;
+
     }
-}
+
